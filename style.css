@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(252, 190, 75);
+    text-align: center;
+}
+img {
+    width: 500px;
+    height: auto;
+}
+h1 {
+    color: white;
+    font-weight: 800px;
+    font-size: 60px;
+    font-family: Helvetica, sans-serif;
+}
+h2 {
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+h4 {
+    font-size: 25px;
+    font-family: Helvetica, sans-serif;
+}
+li {
+    text-align: left;
+    margin-top: 8px;
+
+}
+.nav {
+    list-style-type: none;
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+.desc {
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+    margin-left: 32px;
+    margin-right: 32px;
+}
